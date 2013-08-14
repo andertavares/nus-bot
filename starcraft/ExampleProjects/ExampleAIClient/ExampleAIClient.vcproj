@@ -5,6 +5,10 @@
 	Name="ExampleAIClient"
 	ProjectGUID="{AE3B9DC4-5FBB-4B57-8AB4-0D84D8649D78}"
 	RootNamespace="ExampleAIClient"
+	SccProjectName="Svn"
+	SccAuxPath="Svn"
+	SccLocalPath="Svn"
+	SccProvider="SubversionScc"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
