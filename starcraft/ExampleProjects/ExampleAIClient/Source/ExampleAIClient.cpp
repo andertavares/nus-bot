@@ -12,6 +12,9 @@ using namespace BWAPI;
 //Judy Aug 17 2013
 //
 
+//
+//for version test only
+
 
 void drawStats();
 void drawBullets();
