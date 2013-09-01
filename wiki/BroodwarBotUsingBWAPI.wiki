@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-=Broodwar Bot Using BWAPI=
+=Broodwar Bot Using BWAPI=<g:plusone size="medium"></g:plusone>
 
 ==Project Description & Scope==
 
