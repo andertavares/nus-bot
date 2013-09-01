@@ -18,4 +18,4 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
   * To build our novice AI technologies and/or algorithms based on available open source AI architectures. The purpose is to minimize the code integration, and to concentrate on the novice research and evaluate the result/value to be produced.
 
   * Possible funding from *ISS/NUS* is welcome, ie: for expenditure of stationary, workstation and team communication. 
-  * Seek marketing to acquire one or two more resource to join the project. We’d be happy to deliver a presentation in class when appropriate.
+  * Seek marketing to acquire one or two more resource to join the project. 
