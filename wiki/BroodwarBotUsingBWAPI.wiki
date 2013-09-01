@@ -19,3 +19,4 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
 
   * Possible funding from *ISS/NUS* is welcome, ie: for expenditure of stationary, workstation and team communication. 
   * Seek marketing to acquire one or two more resource to join the project. 
+https://nus-bot.googlecode.com/svn/images/760x474-fit.jpg
