@@ -2,7 +2,7 @@
 
 =Project Description & Scope=
 
-Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in StarCraft game platform, to solve some/all comprehensive problems.
+Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in *StarCraft* game platform, to solve some/all comprehensive problems.
 
 ie: how to model expert knowledge, how to reason with imperfect information in a vast-state competitive environment, how to adapt and act in real time and how to evolve through machine learning.
 
