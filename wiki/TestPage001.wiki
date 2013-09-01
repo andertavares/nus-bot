@@ -2,8 +2,7 @@
 
 = Introduction =
 
-Add your content here.
-Test page 001
+Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in StarCraft game platform, to solve some/all comprehensive problems.
 
 
 = Details =
