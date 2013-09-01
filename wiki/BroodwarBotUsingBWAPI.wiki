@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in StarCraft game platform, to solve some/all comprehensive problems.
+
+ie: how to model expert knowledge, how to reason with imperfect information in a vast-state competitive environment, how to adapt and act in real time and how to evolve through machine learning.
+
+Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Academics
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
