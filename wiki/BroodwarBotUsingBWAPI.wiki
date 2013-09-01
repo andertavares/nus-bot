@@ -12,6 +12,6 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
 = Details =
 
   * Project team finalization and formation by *_24-August-2013_*
-Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
+
+  * Project deliverables for *2014 StarCraft AI competition*
   * Automatic links to other wiki pages
