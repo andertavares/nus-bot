@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 <g:plusone size="medium"></g:plusone>
-=Broodwar Bot Using BWAPI=
+=A Starcraft: Broodwar Bot Using BWAPI=
 
 ==Project Description & Scope==
 
