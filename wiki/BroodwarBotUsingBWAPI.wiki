@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+=Project Description & Scope=
 
 Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in StarCraft game platform, to solve some/all comprehensive problems.
 
