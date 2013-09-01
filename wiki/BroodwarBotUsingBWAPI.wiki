@@ -1,6 +1,7 @@
 #summary One-sentence summary of this page.
+=Broodwar Bot Using BWAPI=
 
-=Project Description & Scope=
+==Project Description & Scope==
 
 Upon current research frontier, to introduce novice AI technology and build/enhance an autonomous agent, in the form of computer program in *StarCraft* game platform, to solve some/all comprehensive problems.
 
@@ -9,7 +10,7 @@ ie: how to model expert knowledge, how to reason with imperfect information in a
 Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Academics
 
 
-=Project Assumption & Resources=
+==Project Assumption & Resources==
 
   * Project team finalization and formation by *_24-August-2013_*
   * Appreciate ISS assigns a mentor for publishing a research paper and the overall project.
