@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-
+<g:plusone size="medium"></g:plusone>
 = NUS-Bot =
 
 Nus-bot is initiated by  student of [http://www.iss.nus.edu.sg/ Institution of System Science] @ National University of Singapore.
