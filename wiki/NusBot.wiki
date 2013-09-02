@@ -1,0 +1,25 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+Nus-bot was initiated by  student of [http://www.iss.nus.edu.sg/ Institution of System Science @ National University of Singapore], short as ISS hereafter.
+
+As the final year project, the Starcraft team has obtained permission from ISS, which will be guild by Prof. Charles Pang, as well as Dr. Liya, Dr. Zhenzhen, Dr. Fangming.
+
+StarCraft is a military science fiction real time strategy video game, which was developed and published by Blizzard Entertainment, based on the robot developed by the past, we will focus on the real time strategy improvement, the neural network (NN), genetic algorithm (GA), genetic programming (GP), fuzzy logic, case based reasoning (CBR)... all the artificial intelligence  techniques will be considered.
+
+StarCraft AI Competition is organized by the RTS Game AI Research Group at the University of Alberta, Nus-bot will represent ISS on 2014 Competition.
+
+Our team was built on Aug 24, 2013, we still welcome the StarCraft fans join us and experience the pleasure.
+
+Sep 2, 20
