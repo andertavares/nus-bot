@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#Broodwa rBot Using BWAPI
 <g:plusone size="medium"></g:plusone>
 =A Starcraft: Broodwar Bot Using BWAPI=
 
