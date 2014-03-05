@@ -22,5 +22,5 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
 ==Recent Progress ==
 
   * AIIDE 2014 Starcraft AI competition - Registration on *_26-February-2014-*
-  * =NUS-BOT= was born on *_1-March-2014_*
+  * NUS-BOT was born on *_1-March-2014_*
 [http://www.iss.nus.edu.sg/ https://nus-bot.googlecode.com/svn/images/760x474-fit.jpg]
