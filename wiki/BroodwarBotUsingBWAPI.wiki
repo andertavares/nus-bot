@@ -1,4 +1,4 @@
-#Broodwa rBot Using BWAPI
+#Broodwar Bot Using BWAPI
 <g:plusone size="medium"></g:plusone>
 =A Starcraft: Broodwar Bot Using BWAPI=
 
