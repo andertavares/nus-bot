@@ -19,7 +19,7 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
   * Project deliverables for *2014 StarCraft AI competition*, AI robot program and research paper are to be ready by end of *_July-2014_* for submission.
   * To build our novice AI technologies and/or algorithms based on available open source AI architectures. The purpose is to minimize the code integration, and to concentrate on the novice research and evaluate the result/value to be produced.
 
-==Recent Progress ==
+==Latest Progress ==
 
   * AIIDE 2014 Starcraft AI competition - Registration on *_26-February-2014_*
   * Phase0 - Project proposal and plan submitted on *_26-February-2014_*
