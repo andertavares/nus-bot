@@ -24,5 +24,7 @@ Literature review is in progress, ie: https://code.google.com/p/bwapi/wiki/Acade
   * AIIDE 2014 Starcraft AI competition - Registration on *_26-February-2014_*
   * Phase0 - Project proposal and plan submitted on *_26-February-2014_*
   * NUS-BOT was born on *_1-March-2014_*
+  * IPB+LIM+Shuttle implementation completed on *_31-July-2014_*
+  * NUS-BOT was sent to AIIDE 2014 Starcraft AI competition on *_5-August-2014_*
 
 [http://www.iss.nus.edu.sg/ https://nus-bot.googlecode.com/svn/images/760x474-fit.jpg]
